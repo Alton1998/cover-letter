@@ -1,0 +1,365 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.19)  12 AUG 2024 21:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**template.tex
+(./template.tex
+LaTeX2e <2024-06-01> patch level 1
+L3 programming layer <2024-05-27>
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlttr2.cls
+Document Class: scrlttr2 2023/07/07 v3.41 KOMA-Script document class (letter)
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+Class scrlttr2 Info: File `scrsize12pt.clo' used instead of
+(scrlttr2)           file `scrsize12.clo' to setup font sizes on input line 204
+2.
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2023/07/07 v3.41 KOMA-Script font size class option (12pt
+)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2023/07/07 v3.41 KOMA-Script package (type area)
+\ta@bcor=\skip49
+\ta@div=\count194
+\ta@hblk=\skip50
+\ta@vblk=\skip51
+\ta@temp=\skip52
+\footheight=\skip53
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 2.4185pt
+(typearea)              \oddsidemargin  = 2.4185pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1799.
+)
+\c@letter=\count195
+)
+Class scrlttr2 Info: Letter-Class-Option `DIN' loaded on input line 28.
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/DIN.lco
+File: DIN.lco 2023/07/07 v3.41 KOMA-Script letter-class-option
+)
+(c:/texlive/2024/texmf-dist/tex/latex/fontsize/fontsize.sty
+Package: fontsize 2021/08/04 v0.8.5 'fontsize' package. Set main font sizes (Iv
+an Valbusa)
+
+(c:/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/2024/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
+(c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-05-27 L3 programming layer (loader) 
+
+(c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
+\l__pdf_internal_box=\box52
+))
+Package: xfp 2024-05-08 L3 Floating point unit
+))
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <12.5> not available
+(Font)              size <12> substituted on input line 30.
+
+(c:/texlive/2024/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+)
+(c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+)
+(c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2024/texmf-dist/tex/latex/ebgaramond/ebgaramond.sty
+Package: ebgaramond 2024/04/23 (Bob Tennent and autoinst) Style file for EB Gar
+amond fonts.
+
+(c:/texlive/2024/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(c:/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2024/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 163.
+LaTeX Info: Redefining \textsw on input line 173.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/lato/lato.sty
+Package: lato 2019/06/20 Style file for Lato.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
+
+(c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count198
+)
+\MT@toks=\toks22
+\MT@tempbox=\box53
+\MT@count=\count199
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
+LaTeX Info: Redefining \leftprotrusion on input line 1062.
+\MT@prot@toks=\toks23
+LaTeX Info: Redefining \rightprotrusion on input line 1081.
+LaTeX Info: Redefining \textls on input line 1392.
+\MT@outer@kern=\dimen141
+LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
+\MT@listname@count=\count266
+
+(c:/texlive/2024/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip54
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(c:/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
+))
+(c:/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
+
+(c:/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2024-05-08 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-05-08 L3 Experimental document command parser
+)
+(c:/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-helper.
+sty
+Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
+tawesome5
+ (c:/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def)))
+LaTeX Font Info:    Trying to load font information for T1+EBGaramond-OsF on in
+put line 94.
+ (c:/texlive/2024/texmf-dist/tex/latex/ebgaramond/T1EBGaramond-OsF.fd
+File: T1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for T1/EBGaram
+ond-OsF.
+)
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 12.5pt on input line 94.
+
+(./template.aux)
+\openout1 = `template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+Package scrbase Info: activating english \yourrefname on input line 94.
+Package scrbase Info: activating english \yourmailname on input line 94.
+Package scrbase Info: activating english \myrefname on input line 94.
+Package scrbase Info: activating english \customername on input line 94.
+Package scrbase Info: activating english \invoicename on input line 94.
+Package scrbase Info: activating english \subjectname on input line 94.
+Package scrbase Info: activating english \ccname on input line 94.
+Package scrbase Info: activating english \enclname on input line 94.
+Package scrbase Info: activating english \headtoname on input line 94.
+Package scrbase Info: activating english \headfromname on input line 94.
+Package scrbase Info: activating english \datename on input line 94.
+Package scrbase Info: activating english \pagename on input line 94.
+Package scrbase Info: activating english \phonename on input line 94.
+Package scrbase Info: activating english \mobilephonename on input line 94.
+Package scrbase Info: activating english \faxname on input line 94.
+Package scrbase Info: activating english \emailname on input line 94.
+Package scrbase Info: activating english \wwwname on input line 94.
+Package scrbase Info: activating english \bankname on input line 94.
+Class scrlttr2 Info: no date found for language `american'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `australian'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `british'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `canadian'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `newzealand'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `UKenglish'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `ukenglish'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `USenglish'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `usenglish'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `german'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `ngerman'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `austrian'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `naustrian'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `swissgerman'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `nswissgerman'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `acadian'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `canadien'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `francais'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `french'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `italian'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `spanish'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `croatian'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `dutch'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `finnish'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `norsk'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `swedish'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `polish'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `czech'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: no date found for language `slovak'
+(scrlttr2)           --> skipped on input line 94.
+Class scrlttr2 Info: trying to activate captions and date
+(scrlttr2)           of language `english' on input line 94.
+Class scrlttr2 Info: used language is `english'.
+(scrlttr2)           Supported languages are: `english', `UKenglish',
+(scrlttr2)           `ukenglish', `british', `american', `USenglish',
+(scrlttr2)           `usenglish', `australian`,`canadian', `newzealand',
+(scrlttr2)           `german', `ngerman', `austrian', `naustrian',
+(scrlttr2)           `swissgerman', `nswissgermsn',
+(scrlttr2)           `acadian', `canadien', `francais', `french', 
+(scrlttr2)           `dutch', `italian', `spanish', `polish',
+(scrlttr2)           `croatian', `finnish', `norsk', `swedish',
+(scrlttr2)           `czech', `slovak' on input line 94.
+\c@mv@tabular=\count267
+\c@mv@boldtabular=\count268
+LaTeX Info: Redefining \microtypecontext on input line 94.
+Package microtype Info: Applying patch `item' on input line 94.
+Package microtype Info: Applying patch `toc' on input line 94.
+Package microtype Info: Applying patch `eqnum' on input line 94.
+Package microtype Info: Applying patch `footnote' on input line 94.
+Package microtype Info: Applying patch `verbatim' on input line 94.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 94.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-EBGaramond.cfg
+File: mt-EBGaramond.cfg 2021/10/25 v2.0 microtype config. file: EB Garamond / A
+dobe Garamond (RS)
+)
+
+[1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
+texmf-dist/fonts/enc/dvips/ebgaramond/ebg_tcdnmr.enc}] (./template.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 1
+L3 programming layer <2024-05-27>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 8578 strings out of 473600
+ 172235 string characters out of 5732737
+ 1932908 words of memory out of 5000000
+ 31385 multiletter control sequences out of 15000+600000
+ 566683 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,10n,107p,1005b,248s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.
+pfb>
+Output written on template.pdf (1 page, 31204 bytes).
+PDF statistics:
+ 14 PDF objects out of 1000 (max. 8388607)
+ 8 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 4097 words of extra memory for PDF output out of 10000 (max. 10000000)
+
